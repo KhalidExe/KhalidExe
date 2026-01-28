@@ -1,16 +1,74 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHR4Z3k1eXF4a3B0aG50aG50aG50aG50aG50aG50aG50aG50aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l0ExvT97z8P2n6dFm/giphy.gif" width="50" height="50"/>
+  <h1 style="display: inline-block; margin: 0 10px;">Hi there, I'm Khalid!</h1>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHR4Z3k1eXF4a3B0aG50aG50aG50aG50aG50aG50aG50aG50aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l0ExvT97z8P2n6dFm/giphy.gif" width="50" height="50"/>
+</div>
 
-<!--
-**KhalidExe/KhalidExe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%9A%80;Computer+Science+%26+AI+Student+%40+IAU+%F0%9F%8E%93;Python+%26+Flask+Specialist+%F0%9F%90%8D;Building+the+Future+with+Code+%E2%9C%A8" alt="Typing SVG" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <b>"Architecting digital experiences with precision and passion."</b>
+</div>
+
+<p align="center">
+ I am a dedicated <b>Computer Science & AI student</b> at <b>Imam Abdulrahman Bin Faisal University (IAU)</b>, driven by a relentless curiosity for technology. My expertise lies in bridging the gap between robust <b>Backend logic</b> and immersive <b>Frontend aesthetics</b>. I specialize in building scalable web applications using <b>Python (Flask)</b> and modern UI frameworks. My goal is to leverage Artificial Intelligence to solve complex real-world problems, ensuring every line of code adds value and efficiency.
+</p>
+
+---
+
+### 🛠️ Technical Arsenal
+
+<div align="center">
+
+| **Backend & Core** | **Frontend & UI** | **Tools & DevOps** |
+| :---: | :---: | :---: |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) |
+| ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+| ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white) |
+| ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+- **[🧠 SentiMobile AI (Live Demo)](https://github.com/KhalidExe/SentiMobile-AI)**
+  > A state-of-the-art **Sentiment Analysis Dashboard** powered by AI. It processes bulk customer reviews using NLP algorithms and visualizes data through an interactive, cyberpunk-themed interface.
+  > *Tech Stack: Python, Flask, TextBlob, Tailwind CSS.*
+
+- **[🏋️ Gym Management System](https://github.com/KhalidExe)**
+  > A comprehensive enterprise solution for managing gym memberships, subscriptions, and user data with secure authentication and database integration.
+  > *Tech Stack: Python, SQL, HTML/CSS.*
+
+---
+
+### 📊 Professional Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhalidExe&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Khalid's Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/KhalidExe">
+    <img src="https://github-readme-stats.vercel.app/api?username=KhalidExe&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" alt="Khalid's Stats" />
+  </a>
+  <a href="https://github.com/KhalidExe">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhalidExe&theme=radical&hide_border=true" alt="Khalid's Streak" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <p><i>"Code is like humor. When you have to explain it, it’s bad."</i></p>
+  <img src="https://komarev.com/ghpvc/?username=KhalidExe&label=Profile%20Views&color=0e75b6&style=flat" alt="KhalidExe" />
+</div>
