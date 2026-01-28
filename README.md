@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHR4Z3k1eXF4a3B0aG50aG50aG50aG50aG50aG50aG50aG50aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l0ExvT97z8P2n6dFm/giphy.gif" width="50" height="50"/>
-  <h1 style="display: inline-block; margin: 0 10px;">Hi there, I'm Khalid!</h1>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHR4Z3k1eXF4a3B0aG50aG50aG50aG50aG50aG50aG50aG50aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l0ExvT97z8P2n6dFm/giphy.gif" width="50" height="50"/>
+  <h1>🦇 Hi there, I'm Khalid! 🦇</h1>
 </div>
 
 <div align="center">
@@ -52,16 +50,13 @@
 
 ### 📊 Professional Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhalidExe&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Khalid's Top Languages" />
-</div>
-
 <br>
 
 <div align="center">
   <a href="https://github.com/KhalidExe">
     <img src="https://github-readme-stats.vercel.app/api?username=KhalidExe&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" alt="Khalid's Stats" />
   </a>
+  <br><br>
   <a href="https://github.com/KhalidExe">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhalidExe&theme=radical&hide_border=true" alt="Khalid's Streak" />
   </a>
