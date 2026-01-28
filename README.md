@@ -62,7 +62,7 @@
   </a>
   <br><br>
   <a href="https://github.com/KhalidExe">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhalidExe&theme=radical&hide_border=true" alt="Khalid's Streak" />
+    <img src="https://streak-stats.demolab.com?user=KhalidExe&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Khalid's Streak" />
   </a>
 </div>
 
