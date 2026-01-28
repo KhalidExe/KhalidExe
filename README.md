@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%9A%80;Computer+Science+%26+AI+Student+%40+IAU+%F0%9F%8E%93;Python+%26+Flask+Specialist+%F0%9F%90%8D;Building+the+Future+with+Code+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=AI+Student+%40+CE+Dept%2C+CCSIT%2C+IAU+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%9A%80;Python%2C+Java+%26+C%2B%2B+Coder+%F0%9F%90%BB;Building+the+Future+with+Code+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </div>
 
@@ -17,7 +17,7 @@
 </div>
 
 <p align="center">
- I am a dedicated <b>Computer Science & AI student</b> at <b>Imam Abdulrahman Bin Faisal University (IAU)</b>, driven by a relentless curiosity for technology. My expertise lies in bridging the gap between robust <b>Backend logic</b> and immersive <b>Frontend aesthetics</b>. I specialize in building scalable web applications using <b>Python (Flask)</b> and modern UI frameworks. My goal is to leverage Artificial Intelligence to solve complex real-world problems, ensuring every line of code adds value and efficiency.
+ I am a dedicated <b>Artificial Intelligence (AI)</b> student in the <b>Computer Engineering (CE)</b> Department at the <b>College of Computer Science and Information Technology (CCSIT)</b>, <b>Imam Abdulrahman Bin Faisal University (IAU)</b>. My expertise bridges the gap between robust <b>System Logic (C++/Java)</b> and immersive <b>Web Technologies</b>. I specialize in building scalable applications using <b>Python (Flask)</b> and modern UI frameworks, leveraging AI to solve complex real-world problems.
 </p>
 
 ---
@@ -26,12 +26,13 @@
 
 <div align="center">
 
-| **Backend & Core** | **Frontend & UI** | **Tools & DevOps** |
+| **Languages & Core** | **Web & Frameworks** | **Tools & DevOps** |
 | :---: | :---: | :---: |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) |
-| ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
-| ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white) |
-| ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) |
+| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white) |
+| ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+| ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
 
 </div>
 
@@ -45,7 +46,7 @@
 
 - **[🏋️ Gym Management System](https://github.com/KhalidExe)**
   > A comprehensive enterprise solution for managing gym memberships, subscriptions, and user data with secure authentication and database integration.
-  > *Tech Stack: Python, SQL, HTML/CSS.*
+  > *Tech Stack: Python, MySQL, HTML/CSS.*
 
 ---
 
