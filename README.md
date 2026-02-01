@@ -31,10 +31,9 @@
 | **Languages & Core** | **Web & Frameworks** | **Tools & Networking** |
 | :---: | :---: | :---: |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) |
-| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
-| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) |
-| ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) | ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
-| ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Gemini](https://img.shields.io/badge/Gemini_AI-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white) |
+| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
+| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) |
+| ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Gemini](https://img.shields.io/badge/Gemini_AI-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white) |
 
 </div>
 
@@ -42,15 +41,21 @@
 
 ### 🚀 Live Deployments & Featured Projects
 
+#### 💳 [Raseed (رصيد) - SaaS Property Management](https://github.com/KhalidExe/Raseed)
+> **Modern Real-Estate Financial Ledger.**
+> A specialized SaaS platform for managing rental payments and financial tracking. Features Excel-to-Cloud archiving via **Pandas**, automated payment alerts, and a secure multi-tenant environment.
+> - **Status:** ✅ v2.0.0 Released
+> - **Tech:** Python (Flask), SQLAlchemy, PostgreSQL, Tailwind CSS.
+
 #### 🏋️‍♂️ [SmartFit AI Ecosystem](https://github.com/KhalidExe/SmartFit)
 > **The Ultimate Hybrid AI Fitness Ecosystem.**
-> A full-scale platform merging **Generative AI** with human fitness expertise. Features real-time plan generation using **Gemini 2.5 Flash**, trainer-member management, and a dedicated store.
-> - **Status:** ✅ Released v1.0.0
+> A comprehensive platform merging **Generative AI** with human fitness expertise. Features real-time plan generation using **Gemini 2.5 Flash**, trainer-member management, and a dedicated store.
+> - **Status:** ✅ v1.0.0 Released
 > - **Tech:** Python, Flask, Gemini API, MySQL, AJAX.
 
 #### 🧠 [SentiMobile AI Dashboard](https://github.com/KhalidExe/SentiMobile-AI)
 > **Advanced Sentiment Intelligence.**
-> A professional NLP dashboard for analyzing bulk mobile reviews with high-accuracy sentiment detection and interactive visualizations.
+> A professional NLP dashboard for analyzing bulk mobile reviews with high-accuracy sentiment detection and interactive cyberpunk visualizations.
 > - **Status:** ✅ Completed
 > - **Tech:** Python, Flask, TextBlob, Tailwind CSS.
 
@@ -64,7 +69,7 @@
 
 ### 🛠️ In Development (Pipeline)
 
-- **🎮 Zero-Shot:** An adaptive FPS game with Reinforcement Learning AI.
+- **🎮 Zero-Shot:** An adaptive browser FPS with Reinforcement Learning AI.
 - **👋 Kinesis-AI:** Computer Vision-based Windows gesture control system.
 
 ---
