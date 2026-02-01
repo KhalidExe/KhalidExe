@@ -91,5 +91,5 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/KhalidExe"><img src="https://img.shields.io/github/followers/KhalidExe?label=Follow&style=social" /></a>
+  <img src="https://komarev.com/ghpvc/?username=KhalidExe&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
