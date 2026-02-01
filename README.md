@@ -1,71 +1,90 @@
+<div align="center">
+  <h1> 🦇 Hi there, I'm Khalid! 🦇 </h1>
+</div>
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=AI+Student+%40+CE+Dept%2C+CCSIT%2C+IAU+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%9A%80;Network+%26+Security+Enthusiast+%F0%9F%94%90;Building+the+Future+with+Code+%E2%9C%A8" alt="Typing SVG" />
+  </a>
+</div>
 
-# 🦇 Hi there, I'm Khalid! 
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Architecting%20Digital%20Experiences&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20@%20IAU&descAlignY=62" />
+</div>
+
+<div align="center">
+  <b>"Architecting digital experiences and robust infrastructures."</b>
+</div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Architecting%20Intelligence&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20@%20IAU&descAlignY=62&descAlign=50" />
+  I am a dedicated <b>Artificial Intelligence (AI)</b> student in the <b>Computer Engineering (CE)</b> Department at the <b>College of Computer Science and Information Technology (CCSIT)</b>, <b>Imam Abdulrahman Bin Faisal University (IAU)</b>. My expertise bridges the gap between <b>System Logic (C++/Java)</b>, <b>Network Engineering</b>, and immersive <b>Web Technologies</b>. I specialize in building scalable applications and secure network topologies, leveraging AI to solve complex real-world problems.
 </p>
-
-## 🛡️ The Mission
-I am a **Computer Engineering (AI Track)** student at IAU. My work lives in the shadows between **System Logic**, **Neural Architectures**, and **Secure Infrastructure**. I specialize in building scalable AI ecosystems that solve real-world complexities.
 
 ---
 
 ### 🛠️ Technical Arsenal
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Artificial Intelligence** | Python, Google Gemini API, NLP (Sentiment Analysis), Computer Vision |
-| **Back-End & Core** | Flask, MySQL, Java, C++, OOP, Database Architecture |
-| **Front-End** | Tailwind CSS, Bootstrap 5, JavaScript (AJAX/Fetch) |
-| **Networking** | Cisco Packet Tracer, Routing Protocols (OSPF/EIGRP), VLAN Segmentation |
+<div align="center">
+
+| **Languages & Core** | **Web & Frameworks** | **Tools & Networking** |
+| :---: | :---: | :---: |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) |
+| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) |
+| ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) | ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+| ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Gemini](https://img.shields.io/badge/Gemini_AI-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white) |
+
+</div>
 
 ---
 
-### 🚀 Featured Operations (Projects)
+### 🚀 Live Deployments & Featured Projects
 
 #### 🏋️‍♂️ [SmartFit AI Ecosystem](https://github.com/KhalidExe/SmartFit)
-A revolutionary **Hybrid Fitness Hub**. Integrated with **Gemini 2.5 Flash** to provide hyper-personalized training plans. It bridges the gap between AI automation and professional human coaching.
-* **Tech:** Python, Flask, MySQL, Gemini API, AJAX.
+> **The Ultimate Hybrid AI Fitness Ecosystem.**
+> A full-scale platform merging **Generative AI** with human fitness expertise. Features real-time plan generation using **Gemini 2.5 Flash**, trainer-member management, and a dedicated store.
+> - **Status:** ✅ Released v1.0.0
+> - **Tech:** Python, Flask, Gemini API, MySQL, AJAX.
 
-#### 🧠 [SentiMobile AI](https://github.com/KhalidExe/SentiMobile-AI)
-A high-performance **Sentiment Analysis Dashboard** for processing bulk mobile reviews. Uses NLP to visualize customer emotions through a cinematic dashboard.
-* **Tech:** Python, Flask, TextBlob, Tailwind.
+#### 🧠 [SentiMobile AI Dashboard](https://github.com/KhalidExe/SentiMobile-AI)
+> **Advanced Sentiment Intelligence.**
+> A professional NLP dashboard for analyzing bulk mobile reviews with high-accuracy sentiment detection and interactive visualizations.
+> - **Status:** ✅ Completed
+> - **Tech:** Python, Flask, TextBlob, Tailwind CSS.
 
 #### 🌐 [Enterprise Network Simulation](https://github.com/KhalidExe/Enterprise-Multi-Branch-Network-Infrastructure)
-A massive multi-branch infrastructure design featuring redundant routing, VoIP, and WLC management. Achieved **100% evaluation score**.
-* **Tech:** Cisco Packet Tracer, Network Security.
+> **Mission-Critical Infrastructure.**
+> Design of a massive 6-branch network featuring OSPF/RIPv2 redistribution, VLAN segmentation, VoIP, and WLC management.
+> - **Status:** ✅ Evaluated (100% Score)
+> - **Tech:** Cisco Packet Tracer, Networking Protocols.
+
+---
+
+### 🛠️ In Development (Pipeline)
+
+- **🎮 Zero-Shot:** An adaptive FPS game with Reinforcement Learning AI.
+- **👋 Kinesis-AI:** Computer Vision-based Windows gesture control system.
 
 ---
 
 ### 📊 Professional Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KhalidExe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Khalid's Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhalidExe&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=KhalidExe&theme=dark" alt="3D Activity Graph" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=KhalidExe&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<br>
 
----
-
-### ⚡ Activity Feed
-![](https://github-profile-3d-contrib.vercel.app/api?username=KhalidExe&theme=dark)
-
----
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=footer&text=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it’s%20bad.&fontSize=20&animation=fadeIn" />
+</div>
 
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i> <br>
   <b>Let's build the future, one commit at a time.</b>
 </p>
 
-<p align="center">
-  <a href="https://github.com/KhalidExe"><img src="https://img.shields.io/github/followers/KhalidExe?label=Follow&style=social" /></a>
-</p>
-
 <div align="center">
-  <p><i>"Code is like humor. When you have to explain it, it’s bad."</i></p>
-  <img src="https://komarev.com/ghpvc/?username=KhalidExe&label=Profile%20Views&color=0e75b6&style=flat" alt="KhalidExe" />
+  <a href="https://github.com/KhalidExe"><img src="https://img.shields.io/github/followers/KhalidExe?label=Follow&style=social" /></a>
 </div>
